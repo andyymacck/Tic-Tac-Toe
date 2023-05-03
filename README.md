@@ -1,3 +1,7 @@
+This project was based on the https://react.dev/learn/tutorial-tic-tac-toe which was further expanded upon by completing the #4 additional challenge at the bottom of the page, plus added styling components.
+
+____________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
